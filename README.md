@@ -7,10 +7,15 @@ Get rewarded in **$TENEO Tokens** by running a node that helps access public soc
 ## 🌟 Features
 
 🔹 **Seamless Account Management** – Register, login, and run nodes effortlessly.
+
 🔹 **Automated Node Execution** – Ensures smooth and uninterrupted operation.
+
 🔹 **Self-Healing System** – Auto-reconnect and auto-login for stable performance.
+
 🔹 **Multi-Account Support** – Manage multiple accounts with ease.
+
 🔹 **Proxy Compatibility** – Enhance security and anonymity with proxy integration.
+
 🔹 **Customizable Settings** – Adjust API keys, thread limits, and more.
 
 ---
