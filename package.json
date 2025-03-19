@@ -1,0 +1,34 @@
+{
+  "name": "teneo-bot",
+  "version": "1.0.0",
+  "description": "Teneo BOT farm",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rpchubs/Teneo-BOT.git"
+  },
+  "keywords": [
+    "auto",
+    "farm",
+    "for",
+    "teneo",
+    "extension"
+  ],
+  "author": "rpchubs",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.4",
+    "chalk": "^4.1.2",
+    "https-proxy-agent": "^5.0.1",
+    "p-limit": "^6.2.0",
+    "ws": "^8.18.1"
+  },
+  "bugs": {
+    "url": "https://github.com/rpchubs/Teneo-BOT.git/issues"
+  },
+  "homepage": "https://github.com/rpchubs/Teneo-BOT.git#readme"
+}
